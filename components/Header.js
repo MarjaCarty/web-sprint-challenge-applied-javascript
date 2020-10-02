@@ -31,3 +31,5 @@ function Header() {
 
   return header;
 }
+
+document.querySelector(".header-container").appendChild(Header());
